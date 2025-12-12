@@ -1,0 +1,22 @@
+= RSR Compliance
+
+This repository follows the Rhodium Standard Repository (RSR) guidelines.
+
+== Compliance Status
+
+[cols="2,1,3"]
+|===
+|Requirement |Status |Notes
+
+|README.md |✓ |Project documentation
+|LICENSE |✓ |MIT License
+|CODE_OF_CONDUCT.md |✓ |Contributor Covenant
+|SECURITY.md |✓ |Security policy
+|CONTRIBUTING.md |✓ |Contribution guidelines
+|.editorconfig |✓ |Editor configuration
+|.gitignore |✓ |Git ignore rules
+|===
+
+== Language Tier
+
+Tier 1: Rust
