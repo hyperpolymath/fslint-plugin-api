@@ -1,4 +1,0 @@
-(channel
-  (version 0)
-  (url "https://github.com/hyperpolymath/fslint-plugin-api")
-  (branch "main"))
